@@ -24,7 +24,7 @@ public class getDouble {
 
             return retVal;
         }
-
+        //output
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             String prompt = "Enter a number (e.g., 3.14)";
